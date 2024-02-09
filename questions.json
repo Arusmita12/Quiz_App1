@@ -1,0 +1,59 @@
+[
+    {
+      "question": "Inside which HTML element do we put the JavaScript??",
+      "choice1": "<script>",
+      "choice2": "<javascript>",
+      "choice3": "<js>",
+      "choice4": "<scripting>",
+      "answer": 1
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "choice1": "<script href='xxx.js'>",
+      "choice2": "<script name='xxx.js'>",
+      "choice3": "<script src='xxx.js'>",
+      "choice4": "<script file='xxx.js'>",
+      "answer": 3
+    },
+    {
+      "question": " How do you write 'Hello World' in an alert box?",
+      "choice1": "msgBox('Hello World');",
+      "choice2": "alertBox('Hello World');",
+      "choice3": "msg('Hello World');",
+      "choice4": "alert('Hello World');",
+      "answer": 4
+    },
+    {
+        "question": "Who invented Java Programming?",
+        "choice1": "Guido van Rossum;",
+        "choice2": "James Gosling;",
+        "choice3": "Dennis Ritchie;",
+        "choice4": "Bjarne Stroustrup;",
+        "answer": 2
+     
+    },
+    {
+        "question": " Which statement is true about Java?",
+        "choice1": "Java is a sequence-dependent programming language;",
+        "choice2": "Java is a code dependent programming language;",
+        "choice3": "Java is a platform-dependent programming language;",
+        "choice4": "Java is a platform-independent programming language;",
+        "answer": 4
+     
+    },
+
+    {
+        "question": "  Which environment variable is used to set the java path?",
+        "choice1": "MAVEN_Path;",
+        "choice2": "JavaPATH;",
+        "choice3": "Java;",
+        "choice4": "JAVA_HOME;",
+        "answer": 4
+    
+    }
+
+
+
+  ]
+
+  
